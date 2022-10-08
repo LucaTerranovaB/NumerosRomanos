@@ -1,5 +1,5 @@
 import unittest
-from maindar import Main
+from decimalRoman import Main
 
 class TestRomanToNumber(unittest.TestCase):
 
