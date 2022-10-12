@@ -1,5 +1,6 @@
 import unittest
-from main import *
+from main import DecimalToRoman
+from main import RomantoDecimal
 
 class TestRomanToNumber(unittest.TestCase):
     def testI(self):
