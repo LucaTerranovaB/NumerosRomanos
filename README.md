@@ -1,6 +1,5 @@
 # Trabajo Practico n1
 
-Enlace al repo personal : https://github.com/LucaTerranovaB/NumerosRomanos.git
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/LucaTerranovaB/NumerosRomanos/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/LucaTerranovaB/NumerosRomanos/tree/main)
 
